@@ -1,0 +1,133 @@
+body {
+	background-color: #F5F5F5;
+}
+
+.container {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.s-2 {
+	margin-bottom: 36px;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 24px;
+	line-height: 28px;
+	color: #000000;
+	margin-bottom: 30px;
+}
+
+.left-wrapper {
+	width: 758px;
+	display: inline-block;
+	margin-right: 40px;
+	vertical-align: top;
+}
+
+.image-text-div {
+	display: inline-block;
+	margin-bottom: 42px;
+	position: relative;
+}
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 23px;
+	color: #FFFFFF;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.image7 {
+	width: 100%;
+}
+
+.image8 {
+	width: 100%;
+}
+
+.right-wrapper {
+	display: inline-block;
+	width: 362px;
+	vertical-align: top;
+}
+
+.image9 {
+	margin-bottom: 98px;
+}
+
+
+.image10 {
+	margin-bottom: 103px;
+}
+
+.image9, .image10, .image11 {
+	width: 100%;
+}
+
+
+footer {
+	background-color: #243043;
+	height: 200px;
+}
+.parent {
+	position: relative;
+}
+
+.footer-div1, .footer-div2, .footer-div3 {
+	display: inline-block;
+	margin-top: 60px;
+	margin-right: 75px;
+	vertical-align: top;
+}
+.footer-div2 {
+	margin-right: 100px;
+}
+.footer-div3 {
+	margin-right: 112px;
+}
+
+li {
+	margin-bottom: 14px;
+}
+
+li a {
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 14px;
+	color: #818687;
+}
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 14px;
+	color: #FFFFFF;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 60px;
+}
+
+.geolab {
+	position: absolute;
+	top: 60px;
+	right: 0;
+}
+
+
+
+
+
+
+

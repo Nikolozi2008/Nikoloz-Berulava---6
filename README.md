@@ -1,2 +1,2 @@
-# Nikoloz-Berulava---6
-Nikoloz Berulava - 6
+# lecture8-tbc1
+lecture 8 for tbc1 group
